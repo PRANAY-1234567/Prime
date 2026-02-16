@@ -1,6 +1,5 @@
 # 📘 README — Prime Numbers in Range (Python)
-
-## 📌 Description
+📌 Description
 
 This Python program prints all **Prime Numbers** between a given range.
 
