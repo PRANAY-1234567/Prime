@@ -143,3 +143,6 @@ This logic is used in:
 👉 Prime number = **Only divisible by 1 and itself**
 
 ---
+👨‍💻 Author
+
+Pranay Jadhao
