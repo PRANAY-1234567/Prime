@@ -1,4 +1,4 @@
- 📘 README — Prime Numbers in Range (Python)
+📘 README — Prime Numbers in Range (Python)
 
 📌 Description
 
@@ -146,3 +146,6 @@ This logic is used in:
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="660" height="880" alt="image" src="https://github.com/user-attachments/assets/6874088e-8c6c-4602-8e6f-ba2c667246e9" />
+
