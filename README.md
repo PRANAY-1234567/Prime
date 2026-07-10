@@ -3,7 +3,6 @@
 📌 Description
 
 This Python program prints all **Prime Numbers** between a given range.
-
 In this code, the range is from **1 to 20**.
 
 ---
